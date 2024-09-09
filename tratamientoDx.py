@@ -4,3 +4,8 @@ def sumar(a,b):
 
 def eliminar(a):
     return print(a)
+    
+# nuevo cambio
+
+def completar():
+    return *funcion completar realizada*
