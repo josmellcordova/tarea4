@@ -7,3 +7,7 @@ def eliminar(a):
     
 def graficar():
     return *funcion graficar realizada* 
+
+def completar():
+    return *funcion completar realizada*
+
