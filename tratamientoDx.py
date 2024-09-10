@@ -5,7 +5,9 @@ def sumar(a,b):
 def eliminar(a):
     return print(a)
     
-# nuevo cambio
+def graficar():
+    return *funcion graficar realizada* 
 
 def completar():
     return *funcion completar realizada*
+
