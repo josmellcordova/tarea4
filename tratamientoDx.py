@@ -4,3 +4,6 @@ def sumar(a,b):
 
 def eliminar(a):
     return print(a)
+    
+def graficar():
+    return *funcion graficar realizada* 
