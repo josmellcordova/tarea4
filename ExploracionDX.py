@@ -7,3 +7,6 @@ def calcular_correlacion(df):
 
 def grafico (df):
     return df.hist()
+    
+def completar():
+    return *funcion completar realizada* 
